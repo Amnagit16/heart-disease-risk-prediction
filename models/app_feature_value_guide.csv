@@ -1,0 +1,22 @@
+Feature,Value Guide
+HighBP,"0 = No high blood pressure, 1 = High blood pressure"
+HighChol,"0 = No high cholesterol, 1 = High cholesterol"
+CholCheck,"0 = No cholesterol check in 5 years, 1 = Cholesterol check in 5 years"
+BMI,Body Mass Index value
+Smoker,"0 = Non-smoker, 1 = Smoker"
+Stroke,"0 = No stroke history, 1 = Stroke history"
+Diabetes,"0 = No diabetes, 1 = Pre-diabetes, 2 = Diabetes"
+PhysActivity,"0 = No physical activity, 1 = Physical activity"
+Fruits,"0 = Does not consume fruit daily, 1 = Consumes fruit daily"
+Veggies,"0 = Does not consume vegetables daily, 1 = Consumes vegetables daily"
+HvyAlcoholConsump,"0 = No heavy alcohol consumption, 1 = Heavy alcohol consumption"
+AnyHealthcare,"0 = No healthcare coverage, 1 = Has healthcare coverage"
+NoDocbcCost,"0 = Could see doctor when needed, 1 = Could not see doctor due to cost"
+GenHlth,"1 = Excellent, 2 = Very good, 3 = Good, 4 = Fair, 5 = Poor"
+MentHlth,Poor mental health days in last 30 days
+PhysHlth,Poor physical health days in last 30 days
+DiffWalk,"0 = No difficulty walking, 1 = Difficulty walking"
+Sex,"0 = Female, 1 = Male"
+Age,"1 = 18-24, 2 = 25-29, 3 = 30-34, 4 = 35-39, 5 = 40-44, 6 = 45-49, 7 = 50-54, 8 = 55-59, 9 = 60-64, 10 = 65-69, 11 = 70-74, 12 = 75-79, 13 = 80+"
+Education,1 to 6 education category
+Income,1 to 8 income category

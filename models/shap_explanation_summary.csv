@@ -1,0 +1,2 @@
+Model Explained,SHAP Sample Size,Top Feature 1,Top Feature 2,Top Feature 3,Top Feature 4,Top Feature 5
+Logistic Regression,5000,Age,GenHlth,Sex,HighChol,risk_factor_count

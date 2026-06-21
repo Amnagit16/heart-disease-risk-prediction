@@ -1,0 +1,2 @@
+Selected Model,Reason for Selection,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Logistic Regression,Highest recall for heart disease/heart attack class with strong ROC-AUC,0.753409807631662,0.2482089357822066,0.797447164678803,0.3785824268613719,0.8470628240816265

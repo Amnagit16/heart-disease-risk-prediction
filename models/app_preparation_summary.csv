@@ -1,0 +1,2 @@
+Final Model,Model File,Scaler File,Number of Input Features,Dashboard Graphs Folder,Prediction Output
+Logistic Regression,logistic_regression_model.pkl,scaler.pkl,21,dashboard_graphs,"Risk label, predicted probability, explanation, disclaimer"
